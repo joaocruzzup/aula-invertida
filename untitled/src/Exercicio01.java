@@ -3,7 +3,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
 
-public class Exercicio1 {
+public class Exercicio01 {
     public static void main(String[] args) {
         System.out.println("Olá! Vamos ajudar você a decidir qual produto comprar!");
         System.out.println("Levando em conta os preços e decidindo pelo mais barato, okay?");

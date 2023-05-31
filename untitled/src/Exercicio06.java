@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Exercicio6 {
+public class Exercicio06 {
     public static void main(String[] args) {
         List<Integer> numeros= new ArrayList<>();
         Scanner entrada = new Scanner(System.in);

@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Exercicio3 {
+public class Exercicio03 {
     public static void main(String[] args) {
         //Desenvolva um gerador de tabuada, capaz de gerar a tabuada de qualquer
         //número inteiro entre 1 a 10. O usuário deve informar de qual número ele deseja ver

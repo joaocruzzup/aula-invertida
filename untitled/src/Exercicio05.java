@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Exercicio5 {
+public class Exercicio05 {
     public static void main(String[] args) {
         // Faça um programa que imprima na tela apenas os números ímpares entre 1 e
         //50.
